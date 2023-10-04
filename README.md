@@ -1,4 +1,8 @@
-# Snake game
-Snake game developed in Python.
+This repository contains the following projects:
+ - Snake game
 
-This is one of the projects I planned for summer 2023.
+## Snake game
+It's the classic snake game, developed in Python. In order to execute it you should use the following command:
+```
+python snake.py
+```
